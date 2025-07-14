@@ -8,7 +8,7 @@ Software Developer
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-I'm a second-year Computer Science Student at the University of Waterloo currently seeking 2024 co-op. I love working with software, artificial intelligence and computer algorithms. My interests include exploring neuroscience, visualizing art of emotions and the intellect, and soft plushies have my whole heart.
+I'm a Computer Science Student at the University of Waterloo. I love working with software, artificial intelligence and computer algorithms. My interests include exploring neuroscience, visualizing art of emotions and the intellect, and soft plushies have my whole heart.
 
 * 🌍  I'm based in Canada, Toronto
 * ✉️  You can contact me at [c8jeon@uwaterloo.ca](mailto:c8jeon@uwaterloo.ca)
